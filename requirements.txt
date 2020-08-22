@@ -1,0 +1,1 @@
+requests~=2.23.0gspread~=3.6.0Flask~=1.1.2
