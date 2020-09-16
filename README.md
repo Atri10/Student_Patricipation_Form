@@ -1,8 +1,8 @@
-Following project is made using FLASK Python.<br>
+<b>Following project is made using FLASK Python.</b><br>
 
 <h2>Project Test URL: http://form4545.pythonanywhere.com/</h2><br>
 
-<h3>Google Sheet link of Participates: https://docs.google.com/spreadsheets/d/1KDUJaDpHfijy9agCEtaEICOsma4avdzinw7l9KFr-LM/edit#gid=0 </h3><br>
+<h4>Google Sheet link of Participates: https://docs.google.com/spreadsheets/d/1KDUJaDpHfijy9agCEtaEICOsma4avdzinw7l9KFr-LM/edit#gid=0 </h4><br>
 
 <b>-> Details & Features:</b>
 
@@ -11,7 +11,7 @@ Following project is made using FLASK Python.<br>
 (3) Auto update participents Names into GOOGLE SHEETS which is easily accesible by Event HOSTer.<br>
 (4) Sends form responce copy in user entred main directly after submission.<br>
 
--> How to Use:
+<b>-> How to Use:</b>
 
 (1) Open Test Link URL.<br>
 (2) Enter True Details and Press Submit&Pay button at end.<br>
