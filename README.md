@@ -7,9 +7,9 @@
 <b>-> Details & Features:</b>
 
 (1) Student participation form for any workshop or other Event. <br>
-(2) Provides direct Paytm Cash ( FEEs) transfer service to event host.<br>
-(3) Auto update participents Names into GOOGLE SHEETS which is easily accesible by Event HOSTer.<br>
-(4) Sends form responce copy in user entred main directly after submission.<br>
+(2) Provides <b>direct Paytm Cash ( FEEs) transfer service</b> to event host.<br>
+(3) Auto update participents Names into <b>GOOGLE SHEETS</b> which is easily accesible by Event HOSTer.<br>
+(4) Sends form <b>responce copy in user entred main directly after submission</b>.<br>
 
 <b>-> How to Use:</b>
 
