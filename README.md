@@ -6,7 +6,7 @@ Google Sheet link of Participates: https://docs.google.com/spreadsheets/d/1KDUJa
 
 -> Details & Features:
 
-(1) Student participation form for any workshop or other Event.
+(1) Student participation form for any workshop or other Event. <br>
 (2) Provides direct Paytm Cash ( FEEs) transfer service to event host.
 (3) Auto update participents Names into GOOGLE SHEETS which is easily accesible by Event HOSTer.
 (4) Sends form responce copy in user entred main directly after submission.
