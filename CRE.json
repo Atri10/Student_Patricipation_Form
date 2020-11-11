@@ -2,7 +2,7 @@
   "type": "service_account",
   "project_id": "---HIDDEN---",
   "private_key_id": "---HIDDEN---",
-  "private_key": "-----BEGIN PRIVATE KEY-----",
+  "private_key": "-----PRIVATE KEY-----",
   "client_email": "---HIDDEN---",
   "client_id": "---HIDDEN---",
   "auth_uri": "---HIDDEN---",
